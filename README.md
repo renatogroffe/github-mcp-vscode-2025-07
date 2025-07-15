@@ -47,4 +47,4 @@ Um exemplo de uso do MCP do GitHub com minha conta (**renatogroffe**):
 
 Já na próxima imagem temos um segundo exemplo:
 
-![Um segundo exemplo de uso do MCP do GitHub](img/mcp-20.png)
+![Um segundo exemplo de uso do MCP do GitHub](img/mcp-30.png)
